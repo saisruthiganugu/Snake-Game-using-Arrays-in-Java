@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 ### Running the Game
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/saisruthiganugu/Snake-Game-using-Arrays-in-Java.git
 2. **Navigate to the project directory:**
 cd snake-game
 3. **Compile the game:**
